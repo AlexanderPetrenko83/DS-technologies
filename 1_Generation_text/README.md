@@ -18,3 +18,6 @@ RNN в ноутбуке реализовано в двух способах:
 
 *По мотивам [семинара](https://github.com/Samsung-IT-Academy/stepik-dl-nlp/blob/master/task4_RNN_name_generator.ipynb)
  курса ["Нейронные сети и обработка текста (Samsung)"](https://stepik.org/lesson/262247/step/1?unit=243130)*
+ 
+ ### Внимание!!! 
+ ### Файл с параметрами обученной модели на датасете "Война и мир" > 32мб и поэтому не копируется на гит
